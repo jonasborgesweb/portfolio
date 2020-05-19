@@ -42,6 +42,7 @@ export const Photo = styled.div`
 
   @media screen and (max-width: 600px){
     flex: 0 0 100%;
+    min-height: 288px;
   }
 
 `;
@@ -64,6 +65,12 @@ export const Content = styled.div`
       text-align: center;
     }
 
+    @media screen and (max-width: 600px){
+      text-align: left;
+      font-size: 3.2rem;
+      margin-bottom: 1rem;
+    }
+
     span{
       display: block;
     }
@@ -78,6 +85,12 @@ export const Content = styled.div`
 
     @media screen and (max-width: 900px){
       text-align: center;
+    }
+
+    @media screen and (max-width: 600px){
+      text-align: left;
+      font-size: 1.6rem;
+      line-height: 2.4rem;
     }
   }
 `;
@@ -109,6 +122,10 @@ export const Bottom = styled.div`
 
     background-color: #a1d979;
     color: #fff;
+
+    @media screen and (max-width: 600px){
+      width: 100%;
+    }
 
     &:hover{
       background-color: ${shade(0.1, '#a1d979')}

@@ -24,6 +24,10 @@ export const ContainerWrapper = styled.div`
 export const Logomarca = styled.div`
   width: 9.6rem;
 
+  @media screen and (max-width: 600px){
+    width: 7.6rem;
+  }
+
   img{
     width: 100%
   }

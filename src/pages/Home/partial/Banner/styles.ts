@@ -15,6 +15,20 @@ const upDown = keyframes `
     100% {
       bottom: 3rem;
     }
+`;
+
+const upDownMobile = keyframes `
+    0% {
+      bottom: 0;
+    }
+
+    50%{
+      bottom: 1rem;
+    }
+
+    100% {
+      bottom: 0;
+    }
 `
 
 export const Center = styled.div`
@@ -66,7 +80,7 @@ export const Container = styled.section`
 
     @media screen and (max-width: 600px){
       bottom: 0;
-      animation: none;
+      animation: ${upDownMobile} 1s  linear infinite;
     }
   }
 `;

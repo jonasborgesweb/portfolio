@@ -22,6 +22,12 @@ export const ContainerTop = styled.div`
     color: #d93d86;
     margin-bottom: 2.5rem;
     text-align: center;
+
+    @media screen and (max-width: 600px){
+      text-align: left;
+      font-size: 3.2rem;
+      margin-bottom: 1rem;
+    }
   }
 
   p{
@@ -29,6 +35,12 @@ export const ContainerTop = styled.div`
     font-weight: 500;
     color: #3b4259;
     text-align: center;
+
+    @media screen and (max-width: 600px){
+      text-align: left;
+      font-size: 1.6rem;
+      line-height: 2.4rem;
+    }
   }
 `;
 

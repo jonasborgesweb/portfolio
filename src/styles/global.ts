@@ -10,13 +10,13 @@ export default createGlobalStyle `
   }
 
   html{
-    font-size: 16px;
-    font-family: sans-serif;
+    font-size: 62.5%;
+    font-family: 'Montserrat', sans-serif;
   }
 
   body,button,input{
-    font-size: 16px;
-    font-family: sans-serif;
+    font-size: 1.6rem;
+    font-family: 'Montserrat', sans-serif;
     -webkit-font-smoothing: antialiased;
   }
 

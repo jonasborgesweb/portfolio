@@ -32,6 +32,10 @@ export const Logomarca = styled.div`
 
 export const Navigation = styled.nav`
 
+  @media screen and (max-width: 900px){
+    display: none;
+  }
+
   ul{
     display: flex;
     align-items: center;

@@ -16,6 +16,10 @@ export const Container = styled.section`
 export const ContainerWrapper = styled.div`
   display: flex;
   justify-content: space-between;
+
+  @media screen and (max-width: 900px){
+    flex-wrap: wrap;
+  }
 `;
 
 export const Photo = styled.div`
@@ -29,18 +33,36 @@ export const Photo = styled.div`
   background-repeat: no-repeat;
 
   border-radius: 1rem;
-  box-shadow: 5px 5px 10px rgba(0,0,0,.5)
+  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+
+  @media screen and (max-width: 900px){
+    flex: 0 0 80%;
+    margin: 0 auto 3rem;
+  }
+
+  @media screen and (max-width: 600px){
+    flex: 0 0 100%;
+  }
 
 `;
 
 export const Content = styled.div`
   flex: 0 0 54%;
 
+  @media screen and (max-width: 900px){
+    flex: 0 0 100%;
+    margin: 0 auto;
+  }
+
   h2{
     font-size: 4.2rem;
     font-weight:700;
     color: #d93d86;
     margin-bottom: 2.5rem;
+
+    @media screen and (max-width: 900px){
+      text-align: center;
+    }
 
     span{
       display: block;
@@ -53,11 +75,24 @@ export const Content = styled.div`
     font-weight: 500;
     color: #3b4259;
     margin-bottom: 3rem;
+
+    @media screen and (max-width: 900px){
+      text-align: center;
+    }
   }
 `;
 
 export const Bottom = styled.div`
   display: flex;
+
+  @media screen and (max-width: 900px){
+    justify-content: center;
+  }
+
+  @media screen and (max-width: 600px){
+    flex-direction: column;
+    align-items: center;
+  }
 
   a{
     text-decoration: none;
@@ -89,6 +124,11 @@ export const Bottom = styled.div`
 
     &:not(:last-child){
       margin-right: 3rem;
+
+      @media screen and (max-width: 600px){
+        margin-right: 0;
+        margin-bottom: 2rem;
+      }
     }
   }
 `;

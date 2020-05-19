@@ -28,7 +28,7 @@ export const Container = styled.section`
   background-image: url(${backcground});
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: right;
   background-attachment: fixed;
 
   height: 60rem;
@@ -37,6 +37,13 @@ export const Container = styled.section`
 
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 55rem, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 55rem, 0 100%);
+
+  @media screen and (max-width: 600px){
+    height: 50rem;
+
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 48rem, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 48rem, 0 100%);
+  }
 
   &:before{
     content: '';
@@ -56,6 +63,11 @@ export const Container = styled.section`
     color: #d93d86;
 
     animation: ${upDown} 1s  linear infinite;
+
+    @media screen and (max-width: 600px){
+      bottom: 0;
+      animation: none;
+    }
   }
 `;
 
@@ -64,10 +76,12 @@ export const Content = styled.div`
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
+  width: 100%;
 
   display: flex;
   flex-direction: column;
   align-items: center;
+
 
   h2{
     font-size: 3.6rem;
@@ -75,6 +89,10 @@ export const Content = styled.div`
     text-align: center;
     color: #a1d979;
     margin-bottom: 2rem;
+
+    @media screen and (max-width: 768px){
+      font-size: 2.8rem;
+    }
   }
 
   h1{
@@ -83,6 +101,14 @@ export const Content = styled.div`
     text-align: center;
     color: #fff;
     margin-bottom: 4rem;
+
+    @media screen and (max-width: 768px){
+      font-size: 3.2rem;
+    }
+
+    @media screen and (max-width: 600px){
+      font-size: 2.2rem;
+    }
   }
 
   a{

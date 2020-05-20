@@ -57,14 +57,12 @@ export const Navigation = styled.nav`
         text-decoration: none;
         transition: .3s ease;
 
-        text-transform: uppercase;
-
         font-size: 1.8rem;
         font-weight: 600;
         color: #A1d979;
 
         &:hover{
-          color: ${shade(0.1, '#A1d979')}
+          color: #fff;
         }
 
       }

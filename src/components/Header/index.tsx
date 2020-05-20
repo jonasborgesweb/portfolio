@@ -27,10 +27,10 @@ const Header: React.FC = () => {
                 <a href="#portfolio">Portfolio</a>
               </li>
               <li>
-                <a href="#formacao">Formação</a>
+                <a href="#training">Formação</a>
               </li>
               <li>
-                <a href="#contato">Contato</a>
+                <a href="#contact">Contato</a>
               </li>
             </ul>
           </Navigation>

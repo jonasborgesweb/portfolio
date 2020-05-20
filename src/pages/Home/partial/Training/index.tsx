@@ -15,7 +15,7 @@ import {
 const Training:React.FC = () => {
   return(
     <>
-      <Container>
+      <Container id="training">
         <Center>
           <ContainerTop>
             <h2>Resumo</h2>

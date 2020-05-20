@@ -5,6 +5,7 @@ import About from './partial/About';
 import Skills from './partial/Skills';
 
 import Training from './partial/Training';
+import Contact from './partial/Contact';
 
 const Home:React.FC = () => {
   return(
@@ -13,6 +14,7 @@ const Home:React.FC = () => {
       <About />
       <Skills />
       <Training />
+      <Contact />
     </>
   )
 }

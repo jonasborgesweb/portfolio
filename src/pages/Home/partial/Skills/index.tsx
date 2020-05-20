@@ -20,7 +20,7 @@ import iconReactnative from '../../../../assets/icons/reactnative.svg';
 const Skills:React.FC = () => {
   return(
     <>
-      <Container>
+      <Container id="skills">
         <Center>
           <ContainerTop>
             <h2>Skills</h2>

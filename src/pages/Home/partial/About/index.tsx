@@ -12,7 +12,7 @@ import {
 const About:React.FC = () => {
   return(
     <>
-      <Container>
+      <Container id="about">
         <Center>
         <ContainerWrapper>
           <Photo />
@@ -32,7 +32,7 @@ const About:React.FC = () => {
             </p>
             <Bottom>
               <a href="#portfolio">Portfolio</a>
-              <a href="#formacao">Formação</a>
+              <a href="#training">Formação</a>
             </Bottom>
           </Content>
         </ContainerWrapper>

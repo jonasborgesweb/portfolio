@@ -17,7 +17,9 @@ const Footer:React.FC = () =>{
       <Center>
       <ContainerWrapper>
         <Logomarca>
-          <img src={logo} alt="Logomarca Jonas Borges Web"/>
+          <a href="#Banner">
+            <img src={logo} alt="Logomarca Jonas Borges Web"/>
+          </a>
         </Logomarca>
         <Copyright>
           <RiCopyrightLine size={25} />

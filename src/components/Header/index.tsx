@@ -16,7 +16,9 @@ const Header: React.FC = () => {
       <Center>
         <ContainerWrapper>
           <Logomarca>
-            <img src={logo} alt="Logomarca Jonas Borges"/>
+            <a href="#Banner">
+             <img src={logo} alt="Logomarca Jonas Borges"/>
+            </a>
           </Logomarca>
           <Navigation>
             <ul>
@@ -24,7 +26,7 @@ const Header: React.FC = () => {
                 <a href="#skills">Skills</a>
               </li>
               <li>
-                <a href="#portfolio">Portfolio</a>
+                <a href="#projects">Projetos</a>
               </li>
               <li>
                 <a href="#training">Formação</a>

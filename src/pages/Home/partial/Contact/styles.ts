@@ -134,6 +134,11 @@ export const CardContent = styled.div`
     &:hover{
       background-color: ${shade(0.1, '#3B4259')};
       color: #fff;
+
+      @media screen and (max-width: 600px){
+        background-color: transparent;
+        color: #3b4259;
+      }
     }
 
     svg{

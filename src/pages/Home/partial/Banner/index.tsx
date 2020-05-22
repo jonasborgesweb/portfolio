@@ -10,7 +10,7 @@ import {
 
 const Banner:React.FC = () => {
   return(
-    <Container>
+    <Container id="Banner">
       <Center>
         <Content>
          <h2>Jonas Borges</h2>

@@ -24,7 +24,7 @@ const About:React.FC = () => {
               </span>
             </h2>
             <p>
-              Eu sou um Desenvolvedor Front End do interior do estado do 
+              Eu sou um Desenvolvedor Front-End do interior do estado do 
               Rio de Janeiro, Brasil. Gosto de transformar problemas complexos 
               em projetos simples, bonitos e intuitivos. Quando não estou 
               codificando ou desenhando telas, você me encontrará consumindo 

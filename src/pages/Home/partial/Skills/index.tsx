@@ -38,8 +38,7 @@ const Skills:React.FC = () => {
             )}
           </ContainerWrapper>
         </Center>
-      </Container>
-    
+      </Container>  
     </>
   )
 }

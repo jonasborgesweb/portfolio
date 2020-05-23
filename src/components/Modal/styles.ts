@@ -107,6 +107,10 @@ export const ModalMiddle = styled.div`
     font-weight: 500;
     color: #3b4259;
     text-align: center;
+
+    @media screen and (max-width: 768px){
+      text-align: left;
+    }
   }
 
   div{
@@ -121,6 +125,11 @@ export const ModalBottom = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+
+  @media screen and (max-width: 600px){
+    flex-direction: column;
+    align-items: flex-start;
+  }
 
   a{
     cursor: pointer;
@@ -155,12 +164,17 @@ export const ModalBottom = styled.div`
       }
     }
 
-    @media screen and (max-width: 600px){
+    /* @media screen and (max-width: 600px){
       width: 100%;
-    }
+    } */
 
     &:not(:last-child){
       margin-right: 2.5rem;
+
+      @media screen and (max-width: 600px){
+        margin-right: 0;
+        margin-bottom: 1.6rem;
+      }
     }
 
     svg{

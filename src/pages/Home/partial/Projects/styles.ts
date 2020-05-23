@@ -138,10 +138,6 @@ export const CardTop = styled.div`
         background-color: #a1d979;
         color: #fff;
 
-        @media screen and (max-width: 600px){
-          width: 100%;
-        }
-
         &:hover{
           background-color: ${shade(0.1, '#a1d979')}
         }

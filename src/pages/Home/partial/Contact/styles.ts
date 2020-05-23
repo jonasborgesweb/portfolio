@@ -80,10 +80,10 @@ export const Card = styled.div`
 `;
 export const CardIcone = styled.div`
 
-  svg{
+  img{
+    width: 50px;
     margin: 0 auto 2rem;
     display: block;
-    color: #a1d979;
   }
 `;
 export const CardContent = styled.div`
@@ -124,20 +124,21 @@ export const CardContent = styled.div`
     font-weight: 700;
     text-align: center;
 
-    border: 1px solid #3b4259;
-    color: #3b4259;
+    background-color: #3b4259;
+    color: #fff;
 
     &:hover{
       background-color: ${shade(0.1, '#3B4259')};
-      color: #fff;
+      
 
       @media screen and (max-width: 600px){
-        background-color: transparent;
-        color: #3b4259;
+        background-color: #3b4259;
+        color: #fff;
       }
     }
 
-    svg{
+    img{
+      width: 20px;
       margin-right: .5rem;
     }
   }

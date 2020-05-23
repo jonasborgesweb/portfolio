@@ -15,11 +15,11 @@ export default [
   {
     category:'E-Commerce',
     title: 'Sello',
-    description:'Esse foi o primeiro E-Commerce desenvolvido, nesse projeto pude aplicar conhecimentos de HTML,CSS e Javascript que adquirir durante a minha carreira de Front-End. Também disponibilizei uma versão no site no ar.',
+    description:'Esse foi o primeiro E-Commerce desenvolvido, nesse projeto pude aplicar conhecimentos de HTML,CSS e Javascript que adquirir durante a minha carreira de Front-End. O site ainda está em desenvolvimento.',
     techs: 'HTML, Sass e Javascript',
     urlImage: imgSello,
-    urlRepository: 'https://github.com/',
-    url: 'http://google.com'
+    urlRepository: 'https://github.com/jonasborgesweb/E-commerce',
+    url: 'https://jonasborgesweb.github.io/Sello/'
   },
   {
     category:'Site Institucional',
@@ -27,7 +27,7 @@ export default [
     description:'Esse site foi desenvolvido no curso Advanced CSS and Sass, onde puder aprender e aplicar ferramentas do CSS junto com o SASS, ao finalizar o site foi gerado a Build do projeto que se encontra no github, além disso disponibilizei uma versão do site no ar.',
     techs: 'HTML, CSS e Sass',
     urlImage: imgNatours,
-    urlRepository: 'https://github.com/',
-    url: 'http://google.com'
+    urlRepository: 'https://github.com/jonasborgesweb/Natours/',
+    url: 'https://jonasborgesweb.github.io/Natours/'
   },
 ]

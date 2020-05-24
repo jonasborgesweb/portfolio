@@ -24,7 +24,7 @@ export default [
   {
     category:'Site Institucional',
     title: 'Natours',
-    description:'Esse site foi desenvolvido no curso Advanced CSS and Sass, onde puder aprender e aplicar ferramentas do CSS junto com o SASS, ao finalizar o site foi gerado a Build do projeto que se encontra no github, além disso disponibilizei uma versão do site no ar.',
+    description:'Esse site foi desenvolvido no curso Advanced CSS and Sass, onde pude aprender e aplicar ferramentas do CSS com o SASS, ao finalizar o site foi gerado a Build do projeto que se encontra no github, além disso, disponibilizei uma versão do site no ar.',
     techs: 'HTML, CSS e Sass',
     urlImage: imgNatours,
     urlRepository: 'https://github.com/jonasborgesweb/Natours/',

@@ -21,7 +21,7 @@ const Skills:React.FC = () => {
             <h2>Skills</h2>
             <p>
               Linguagens, ferramentas e frameworks que trabalho e estudo 
-              focado no front-end da aplicação
+              focado no front-end da aplicação.
             </p>
           </ContainerTop>
           <ContainerWrapper>

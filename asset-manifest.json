@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.cd91ddab.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cd91ddab.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.1ddea6d5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1ddea6d5.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d401f05c.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d401f05c.js.map",
     "static/js/2.4e697ee7.chunk.js": "/portfolio/static/js/2.4e697ee7.chunk.js",
     "static/js/2.4e697ee7.chunk.js.map": "/portfolio/static/js/2.4e697ee7.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.37b48ad394ccb456e2dfcd788f0511a8.js": "/portfolio/precache-manifest.37b48ad394ccb456e2dfcd788f0511a8.js",
+    "precache-manifest.f9c0910fe0da5432f0a68868eee57d43.js": "/portfolio/precache-manifest.f9c0910fe0da5432f0a68868eee57d43.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.4e697ee7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4e697ee7.chunk.js.LICENSE.txt",
     "static/media/FairWind.png": "/portfolio/static/media/FairWind.9f3445a2.png",
@@ -33,6 +33,6 @@
   "entrypoints": [
     "static/js/runtime-main.d401f05c.js",
     "static/js/2.4e697ee7.chunk.js",
-    "static/js/main.cd91ddab.chunk.js"
+    "static/js/main.1ddea6d5.chunk.js"
   ]
 }

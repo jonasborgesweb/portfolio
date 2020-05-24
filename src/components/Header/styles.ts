@@ -16,7 +16,7 @@ export const Center = styled.div`
 `;
 
 export const Container = styled.header`
-  position: -webkit-sticky; /* Necessário para funcionar no Safari */
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
   left: 0;

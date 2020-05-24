@@ -9,7 +9,7 @@ export const Container = styled.section`
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 1;
+  z-index: 999999;
 `;
 export const ContainerContent = styled.div`
     position: relative;

@@ -9,8 +9,8 @@ export default [
     description:'Nesse projeto foi onde consegui juntar as minhas duas paixões (Carros e Programação), com uma proposta muito interessante que era aplicar novos conceitos de CSS utilizando efeitos de Flip e 3D nos cards, sem sobra de dúvidas foi um dos projetos mais legais que já participei.',
     techs: 'HTML, Sass e Javascript',
     urlImage: imgFairWind,
-    urlRepository: 'https://github.com/',
-    url: 'http://google.com'
+    urlRepository: 'https://github.com/jonasborgesweb',
+    url: 'https://github.com/jonasborgesweb'
   },
   {
     category:'E-Commerce',

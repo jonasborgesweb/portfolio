@@ -30,7 +30,7 @@ const About:React.FC = () => {
               tecnologia e conteúdos automotivos.
             </p>
             <Bottom>
-              <a href="#portfolio">Portfolio</a>
+              <a href="#projects">Projetos</a>
               <a href="#training">Formação</a>
             </Bottom>
           </Content>

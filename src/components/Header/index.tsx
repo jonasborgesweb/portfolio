@@ -14,7 +14,7 @@ import logo from './../../assets/images/logo-simbulo-branco.svg'
 
 const Header: React.FC = () => {
   
-  const [isMenuOpen, setIsMenuOpen] = useState(true);
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
   return(
     <Container>
       <Center>

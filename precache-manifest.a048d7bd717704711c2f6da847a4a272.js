@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f5edf6e9052e4a34f5b83f4a6a473dd",
+    "revision": "ba54771603fa5a08c4665cb2e294a6f4",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7e6db2872a82632aa2a5",
-    "url": "/portfolio/static/js/2.b309cca7.chunk.js"
+    "revision": "b41cb990dcaf590149a9",
+    "url": "/portfolio/static/js/2.f2197792.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.b309cca7.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.f2197792.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe99a9165c68286fe4e9",
-    "url": "/portfolio/static/js/main.132242b6.chunk.js"
+    "revision": "914d81369666f2402ca3",
+    "url": "/portfolio/static/js/main.efb97b28.chunk.js"
   },
   {
     "revision": "7903be13f56896745cbd",
@@ -44,6 +44,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/html.8fddb9d1.svg"
   },
   {
+    "revision": "acd5907a9bb902b3bc14206e336b43cf",
+    "url": "/portfolio/static/media/instagram-white.acd5907a.svg"
+  },
+  {
+    "revision": "1a202607b80699ace6ec291999d455ef",
+    "url": "/portfolio/static/media/instagram.1a202607.svg"
+  },
+  {
     "revision": "ade168a4e1d53a61153779a119e7e148",
     "url": "/portfolio/static/media/javascript.ade168a4.svg"
   },
@@ -54,6 +62,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1ffbbb08da82adc187a3fc363527e5ea",
     "url": "/portfolio/static/media/logo-simbulo.1ffbbb08.svg"
+  },
+  {
+    "revision": "3f4f286ac521e09ee34e45315f3ac78d",
+    "url": "/portfolio/static/media/mail-white.3f4f286a.svg"
+  },
+  {
+    "revision": "49b438358f2da9a3e5ba8b4338a60b4e",
+    "url": "/portfolio/static/media/mail.49b43835.svg"
   },
   {
     "revision": "99f06b162a70246b8fadc241f3836a89",
@@ -70,5 +86,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "09ac7625a42927c7883be08ee9d99c79",
     "url": "/portfolio/static/media/sass.09ac7625.svg"
+  },
+  {
+    "revision": "6f59a18df395504e3379b7fd21b14b55",
+    "url": "/portfolio/static/media/whatsapp-white.6f59a18d.svg"
+  },
+  {
+    "revision": "8111e0d1d3e51f42d308aaa71b52543c",
+    "url": "/portfolio/static/media/whatsapp.8111e0d1.svg"
   }
 ]);

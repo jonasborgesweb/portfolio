@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba54771603fa5a08c4665cb2e294a6f4",
+    "revision": "7bad173cf5b798edb7361a3278a44806",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "b41cb990dcaf590149a9",
-    "url": "/portfolio/static/js/2.f2197792.chunk.js"
+    "revision": "9aae5c6425dac9deaee8",
+    "url": "/portfolio/static/js/2.4e697ee7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.f2197792.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.4e697ee7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "914d81369666f2402ca3",
-    "url": "/portfolio/static/js/main.efb97b28.chunk.js"
+    "revision": "39ca40bb56ba12893bae",
+    "url": "/portfolio/static/js/main.ed5a4a16.chunk.js"
   },
   {
     "revision": "7903be13f56896745cbd",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/logo-branco.ed01d73c.svg"
   },
   {
-    "revision": "1ffbbb08da82adc187a3fc363527e5ea",
-    "url": "/portfolio/static/media/logo-simbulo.1ffbbb08.svg"
+    "revision": "d10405413b77b2ce9656d164a9f6de12",
+    "url": "/portfolio/static/media/logo-simbulo-branco.d1040541.svg"
   },
   {
     "revision": "3f4f286ac521e09ee34e45315f3ac78d",

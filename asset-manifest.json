@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.efb97b28.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.efb97b28.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ed5a4a16.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ed5a4a16.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d401f05c.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d401f05c.js.map",
-    "static/js/2.f2197792.chunk.js": "/portfolio/static/js/2.f2197792.chunk.js",
-    "static/js/2.f2197792.chunk.js.map": "/portfolio/static/js/2.f2197792.chunk.js.map",
+    "static/js/2.4e697ee7.chunk.js": "/portfolio/static/js/2.4e697ee7.chunk.js",
+    "static/js/2.4e697ee7.chunk.js.map": "/portfolio/static/js/2.4e697ee7.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.a048d7bd717704711c2f6da847a4a272.js": "/portfolio/precache-manifest.a048d7bd717704711c2f6da847a4a272.js",
+    "precache-manifest.1cb3a722e91fada18cb8f564f47b7f36.js": "/portfolio/precache-manifest.1cb3a722e91fada18cb8f564f47b7f36.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/js/2.f2197792.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f2197792.chunk.js.LICENSE.txt",
+    "static/js/2.4e697ee7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4e697ee7.chunk.js.LICENSE.txt",
     "static/media/FairWind.png": "/portfolio/static/media/FairWind.9f3445a2.png",
     "static/media/Natours.png": "/portfolio/static/media/Natours.fa460a0b.png",
     "static/media/Sello.png": "/portfolio/static/media/Sello.8de415c4.png",
@@ -20,7 +20,7 @@
     "static/media/instagram.svg": "/portfolio/static/media/instagram.1a202607.svg",
     "static/media/javascript.svg": "/portfolio/static/media/javascript.ade168a4.svg",
     "static/media/logo-branco.svg": "/portfolio/static/media/logo-branco.ed01d73c.svg",
-    "static/media/logo-simbulo.svg": "/portfolio/static/media/logo-simbulo.1ffbbb08.svg",
+    "static/media/logo-simbulo-branco.svg": "/portfolio/static/media/logo-simbulo-branco.d1040541.svg",
     "static/media/mail-white.svg": "/portfolio/static/media/mail-white.3f4f286a.svg",
     "static/media/mail.svg": "/portfolio/static/media/mail.49b43835.svg",
     "static/media/profile.png": "/portfolio/static/media/profile.99f06b16.png",
@@ -32,7 +32,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d401f05c.js",
-    "static/js/2.f2197792.chunk.js",
-    "static/js/main.efb97b28.chunk.js"
+    "static/js/2.4e697ee7.chunk.js",
+    "static/js/main.ed5a4a16.chunk.js"
   ]
 }
